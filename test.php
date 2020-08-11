@@ -1,3 +1,3 @@
 <?php
 
-echo "testujemy gita jeszcze raz sprawdzam tagi";
+echo "testujemy gita jeszcze raz sprawdzam tagi lekki";
