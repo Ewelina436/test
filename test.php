@@ -12,3 +12,5 @@ echo "first branch update";
 echo "wyslij i zaktualizuj";
 
 echo "nowa linijka";
+
+echo "uczymy się śledzić nową gałąź teraz";
