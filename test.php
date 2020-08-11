@@ -14,3 +14,4 @@ echo "wyslij i zaktualizuj";
 echo "nowa linijka";
 
 echo "uczymy się śledzić nową gałąź teraz";
+echo "uczymy się śledzić nową gałąź ZMIANKA";
