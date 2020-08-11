@@ -11,3 +11,4 @@ echo "first branch update";
 
 echo "wyslij i zaktualizuj";
 
+echo "nowa linijka";
