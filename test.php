@@ -15,3 +15,4 @@ echo "nowa linijka";
 
 echo "uczymy się śledzić nową gałąź teraz";
 echo "uczymy się śledzić nową gałąź ZMIANKA ZMIANY test";
+echo "NOWE";
