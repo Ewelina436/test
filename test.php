@@ -2,4 +2,4 @@
 
 
 
-echo "master";
+echo "+bind-branch";
