@@ -1,0 +1,25 @@
+From 07796184679dd3176a6e43517d88fbd95cdc4034 Mon Sep 17 00:00:00 2001
+From: Ewelina <e.goraca@musq.io>
+Date: Tue, 11 Aug 2020 14:42:07 +0200
+Subject: [PATCH 1/6] zmiana mastera
+
+---
+ test.php | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/test.php b/test.php
+index 78178bb..36b89ce 100644
+--- a/test.php
++++ b/test.php
+@@ -11,4 +11,6 @@ echo "first branch update";
+ 
+ echo "wyslij i zaktualizuj";
+ 
+-echo "nowa linijka";
+\ No newline at end of file
++echo "nowa linijka";
++
++echo "uczymy się śledzić nową gałąź teraz";
+-- 
+2.25.0.windows.1
+
