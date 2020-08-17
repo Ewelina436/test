@@ -3,8 +3,8 @@
 
 
 echo "master";
-echo "add to master";
-echo "2-add to masterXXXX";
+
+echo "zmiana na change-branch";
 
 
 echo "nowa gałąź";
