@@ -1,0 +1,21 @@
+From 6f4e6ae4597498e4a2a5c16962e4fb5606b66136 Mon Sep 17 00:00:00 2001
+From: Ewelina <e.goraca@musq.io>
+Date: Tue, 11 Aug 2020 14:45:39 +0200
+Subject: [PATCH 2/6] test
+
+---
+ test.php | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/test.php b/test.php
+index 36b89ce..1765762 100644
+--- a/test.php
++++ b/test.php
+@@ -14,3 +14,4 @@ echo "wyslij i zaktualizuj";
+ echo "nowa linijka";
+ 
+ echo "uczymy się śledzić nową gałąź teraz";
++echo "uczymy się śledzić nową gałąź ZMIANKA";
+-- 
+2.25.0.windows.1
+
