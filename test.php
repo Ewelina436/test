@@ -4,7 +4,7 @@
 
 echo "master";
 
-echo "zmiana na change-branch";
+echo "zmiana na inna branch";
 
 
 echo "nowa gałąź";
